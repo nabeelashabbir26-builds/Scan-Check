@@ -1,0 +1,8 @@
+{
+  "name": "ScamCheck PK",
+  "description": "Pakistan-focused scam, phishing, SMS, URL, and phone number risk detection tool supporting English, Roman Urdu, and Urdu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
